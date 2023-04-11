@@ -17,7 +17,7 @@
 
       pip install mechanize
        
-       rm -rf Anymous-404
+       rm -rf Uid-404
 git clone https://github.com/V-Virux-404/Uid-404
 
           cd Uid-404
